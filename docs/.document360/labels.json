@@ -5,6 +5,11 @@
       "guid": "53063a4c-e0c3-48d7-8f91-d2a52feffe3d",
       "uniqueId": "test",
       "name": "Test"
-    }
+    },
+    {
+      "guid": "75f631d6-a458-43f5-a87e-07675ba0d30f",
+      "uniqueId": "fromGit",
+      "name": "From Git"
+    }    
   ]
 }
